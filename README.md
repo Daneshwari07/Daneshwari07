@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Daneshwari Hanagandi 
 
-🎓 Computer Science and Engineering Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner  
+🎓 Computer Science and Engineering Student | 💻 Aspiring Software Developer | AI Enthusiast  
 
 ---
 
@@ -24,7 +24,7 @@
 ## 🛠️ Skills
 - **Programming Languages:** C, C++, Python (basics)  
 - **Core Concepts:** Data Structures & Algorithms, OOPs  
-- **Technologies:** Web Development (learning), Deep Learning (basics)  
+- **Technologies:** Web Development (learning), Deep Learning  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
